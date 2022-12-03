@@ -2,7 +2,7 @@
 
 ## Introduction
 
-> I had many problems using my JBL Live Pro+ on Ubuntu 22.04, here is the things I did in order to use it.
+> I had many problems using my JBL Live Pro+ on Ubuntu 22.04, here are the things I did in order to use it.
 
 ## Headset connecting and then instant disconnect
 
